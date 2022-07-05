@@ -1,0 +1,14 @@
+genero,sentimiento etapa inicial,sentimiento etapa media,sentimiento etapa final
+terror,intrigado,intrigado,animado
+drama,intrigado,incertidumbre,animado
+terror,intrigado,desconfiado,aterrorizado
+aventuras,animico,incertidumbre,ansioso
+accion,animico,incertidumbre,animado
+drama,intrigado,intrigado,inspirado
+aventuras,intrigado,exaltado,inspirado
+accion,animico,exaltado,ansioso
+drama,intrigado,intrigado,animado
+terror,panico,exaltado,ansioso
+terror,intrigado,incertidumbre,ansioso
+aventuras,animico,incertidumbre,animado
+terror,intrigado,desconfiado,aterrorizado
